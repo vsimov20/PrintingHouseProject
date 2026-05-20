@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
-
 public class Operator {
+    private double salary;
+
+    public Operator(double salary){
+        this.salary = salary;
+    }
 }
